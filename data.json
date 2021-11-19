@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "title": "Hamlet",
+      "author": "William Shakespeare",
+      "price": "100",
+      "id": "luZvrb9"
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "price": "400",
+      "id": "dIE7n76"
+    },
+    {
+      "title": "A Passage to India",
+      "author": "E.M. Forster",
+      "price": "700",
+      "id": "kd-RLZV"
+    }
+  ]
+}
